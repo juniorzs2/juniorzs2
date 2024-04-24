@@ -1,11 +1,6 @@
 ### Olá, Eu sou josé 👋
-Sou um estudante de Tecnologia da Informação
-com interesse em programação e UX Design. Estou empenhado
-em me tornar um desenvolvedor web habilidoso, buscando
-constantemente aprimorar meus conhecimentos e habilidades em
-tecnologias e frameworks modernos. Estou entusiasmado para
-aplicar minhas habilidades em projetos desafiadores e colaborar
-com equipes talentosas na criação de soluções inovadoras.
+ Estudante de Tecnologia da Informação
+com interesse em programação Front End e UX Design.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euraiden_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-bezerra-42421a203)
